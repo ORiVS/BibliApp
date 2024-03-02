@@ -1,0 +1,45 @@
+[
+  {
+    "isbn": "0",
+    "title": "VINGT-QUATRE HEURES DE LA VIE D’UNE FEMME",
+    "author": "STEFAN ZWEIG",
+    "imageUrl": "https://m.media-amazon.com/images/I/411R0nD7YUL._SX293_BO1,204,203,200_.jpg",
+    "overview": "Voilà un récit fougueux et passionné. Mme Henriette, une bourgeoise du début du siècle s’enfuit avec un homme plus jeune qu’elle, rencontré il y a à peine plus de vingt-quatre heures. Cet acte dénué de toute raison va pousser Mrs C… à des confidences merveilleuses et bouleversantes. Un bijoux d'écriture. "
+  },
+  {
+    "isbn": "1",
+    "title": "L’ÉTRANGER",
+    "author": "ALBERT CAMUS",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51N5qVjuKAL._SX309_BO1,204,203,200_.jpg",
+    "overview": "The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it. To Kill A Mockingbird became both an instant bestseller and a critical success when it was first published in 1960. It went on to win the Pulitzer Prize in 1961 and was later made into an Academy Award-winning film, also a classic.\n\nCompassionate, dramatic, and deeply moving, "To Kill A Mockingbird" takes readers to the roots of human behavior - to innocence and experience, kindness and cruelty, love and hatred, humor and pathos. Now with over 18 million copies in print and translated into forty languages, this regional story by a young Alabama woman claims universal appeal. Harper Lee always considered her book to be a simple love story. Today it is regarded as a masterpiece of American literature."
+  },
+  {
+    "isbn": "2",
+    "title": "LA VIE DEVANT SOI",
+    "author": "ROMAIN GARY",
+    "imageUrl": "https://resize-elle.ladmedia.fr/rcrop/638,,forcex/img/var/plain_site/storage/images/loisirs/livres/dossiers/livres-a-lire-au-moins-une-fois-dans-votre-vie/la-vie-devant-soi-de-romain-gary/68734432-1-fre-FR/La-vie-devant-soi-de-Romain-Gary.jpg",
+    "overview": "Madame Rosa est une ancienne prostituée qui a connu Auschwitz. Aujourd’hui, elle gère une pension pour les enfants dont les mères ne peuvent pas s'occuper, comme Momo, un môme d’une dizaine d’années qui aime Madame Rosa plus que tout. C’est d’ailleurs lui le narrateur cru et touchant de « La vie devant soi », une œuvre bouleversante et déstabilisante. "
+  },
+  {
+    "isbn": "4",
+    "title": "LE SEIGNEUR DES ANNEAUX",
+    "author": "J.R.R. TOLKIEN",
+    "imageUrl": "https://m.media-amazon.com/images/I/51P+F8p5lZL._SX327_BO1,204,203,200_.jpg",
+    "overview": "Dans le monde de Tolkien, les Hobbits sont des créatures paisibles qui aiment les bonnes choses de la vie, comme manger, boire et fumer de la pipe. Mais lorsque le Hobbit Frodon Sacquet hérite d'un anneau mystérieux, il se retrouve entraîné dans une quête épique pour sauver la Terre du Milieu."
+  },
+  {
+    "isbn": "5",
+    "title": "LE LIVRE DES ÉTOILES",
+    "author": "ERIK L'HOMME",
+    "imageUrl": "https://m.media-amazon.com/images/I/41UNe8ysKmL._SX295_BO1,204,203,200_.jpg",
+    "overview": "Gwen, un jeune garçon orphelin, découvre un jour qu'il est le dernier descendant d'une lignée de sorciers. Avec l'aide de son maître, il doit affronter les forces du mal qui menacent son monde."
+  },
+  {
+    "isbn": "6",
+    "title": "HARRY POTTER À L'ÉCOLE DES SORCIERS",
+    "author": "J.K. ROWLING",
+    "imageUrl": "https://kyunbound.overdrive.com/boone-anderson/content/media/912422#",
+    "overview": "Harry Potter est un jeune garçon ordinaire qui découvre un jour qu'il est un sorcier. Il est envoyé à Poudlard, une école de magie, où il apprend à contrôler ses pouvoirs et à affronter les forces du mal."
+  }
+
+]

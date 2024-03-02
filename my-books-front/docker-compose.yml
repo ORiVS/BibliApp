@@ -1,0 +1,17 @@
+version: '3.1'
+services: # Ici, nous définissons notre ou nos service(s)
+  mybook-front: # Le nom du service
+    container_name: mybook-front # Le nom du conteneur
+    build: ./ # Location of our Dockerfile
+    ports:
+      - "9000:80"
+    networks:
+      - backend-network
+
+volumes:
+  frontend:
+
+networks:
+  backend-network:
+    external:
+      name: spring-network
